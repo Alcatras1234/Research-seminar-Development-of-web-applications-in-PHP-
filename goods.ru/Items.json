@@ -1,0 +1,23 @@
+[
+    {"name": "Холодильник двухкамерный Indesit DS 4160 W", "date": "12.08.2023", "cash": 300, "ph": "1.webp"},
+    {"name": "Холодильник двухкамерный Indesit DS 4180 W", "date": "10.05.2014", "cash": 1000, "ph": "2.webp"},
+    {"name": "Холодильник двухкамерный Indesit DS 4200 W", "date": "20.05.2045", "cash": 328, "ph": "3.webp"},
+    {"name": "Холодильник двухкамерный Indesit ES 15", "date": "12.08.2023", "cash": 459, "ph": "4.webp"},
+    {"name": "Моющий пылесос Thomas Twin XT, 1700Вт", "date": "13.04.2023", "cash": 1000, "ph": "5.webp"},
+    {"name": "Пылесос Vitek VT-1833 PR, 1800Вт", "date": "01.02.2023", "cash": 250, "ph": "6.webp"},
+    {"name": "Пылесос Thomas DryBOX + AquaBOX Cat&Dog, 1700Вт", "date": "12.05.2020", "cash": 305, "ph": "7.webp"},
+    {"name": "Пылесос Karcher VC 3, 700Вт", "date": "27.05.2004", "cash": 328, "ph": "8.webp"},
+    {"name": "Стиральная машина Beko WSPE7612W", "date": "12.08.2023", "cash": 500, "ph": "9.webp"},
+    {"name": "Стиральная машина SunWind SWFD8202", "date": "18.07.2024", "cash": 1000, "ph": "10.webp"},
+    {"name": "Стиральная машина суперузкая Indesit EWUC 4105", "date": "20.12.2014", "cash": 500, "ph": "11.webp"},
+    {"name": "Стиральная машина SunWind SWME703", "date": "07.07.2001", "cash": 4500, "ph": "12.webp"},
+    {"name": "Газовая плита GEFEST ПГ 3200-08 К85", "date": "15.06.1966", "cash": 100, "ph": "13.webp"},
+    {"name": "Газовая плита GEFEST ПГ 3200-06 К62", "date": "23.02.2023", "cash": 559, "ph": "14.webp"},
+    {"name": "Электрическая плита Hyundai REE225", "date": "31.07.2024", "cash": 1000, "ph": "15.webp"},
+    {"name": "Электрическая плита Beko FFSS67000W", "date": "03.02.2024", "cash": 235, "ph": "16.webp"},
+    {"name": "Холодильник двухкамерный Indesit ES 15", "date": "12.08.2023", "cash": 459, "ph": "4.webp"},
+    {"name": "Пылесос Vitek VT-1833 PR, 1800Вт", "date": "01.02.2023", "cash": 250, "ph": "6.webp"},
+    {"name": "Стиральная машина SunWind SWFD8202", "date": "18.07.2024", "cash": 1000, "ph": "10.webp"},
+    {"name": "Стиральная машина SunWind SWME703", "date": "07.07.2001", "cash": 4500, "ph": "12.webp"},
+    {"name": "Газовая плита GEFEST ПГ 3200-08 К85", "date": "15.06.1966", "cash": 100, "ph": "13.webp"}
+]
